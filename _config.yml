@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Eugene Gusev
 title: Senior Backend Engineer
-email: me@gagoose.com
+email: gagoose95@gmail.com
 website: www.github.com/gusgene
 
 # Dark Mode (true/false/never)
@@ -23,8 +23,8 @@ linkedin_username: gusgene
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Eugene and I'm a senior backend engineer.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I have experience in architecture development and design based on .NET, C#, and Java. 
+  Organized, responsible, addicted to self-education person with a high level of communication and analytical capabilities.
 
 content:
   - title: Projects # Title for the section
@@ -64,9 +64,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: Tomsk Polytechnic University
+        caption: 2011 - 2016
+        sub_title: Specialist in Automation of Processes and Productions in Petroleum Industry
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+         Here must be description
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Tomsk State Pedagogical University
         caption: 2005 - 2011
-        sub_title: BSc Computer Science
+        sub_title: Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
